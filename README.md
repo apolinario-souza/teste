@@ -70,7 +70,7 @@ This course is delivered using a module approach. Module 1 covers Motor Control 
 ## Acknowledgments
 Content for this course, in one shape or another, has been influenced from a variety of people over the years. Thanks to Dr. Jae Patterson (Brock University), Dr. Diane Ste-Marie (uOttawa), Dr. Tony Carlsen (uOttawa), Dr. Dana Maslovat (Langara College), Dr. Erin Cressman (uOttawa), Dr. Tyler Cluff (University of Calgary).
 
-[0]:https://github.com/apolinario-souza/teste/tree/main/lectures/week-00/lecture-00_welcome.html
+[0]:https://github.com/apolinario-souza/teste/blob/main/lectures/week-00/lecture-00_welcome/00_course-welcome.html
 [1]:https://cartermaclab.github.io/kinesiol-1e03/lectures/week-00/lecture-01_motor-skills-fundamentals/01_motor-skills-fundamentals.html
 [2]:https://cartermaclab.github.io/kinesiol-1e03/lectures/week-01/lecture-02_motor-skills-classification/02_motor-skills-classification.html
 [3]:https://cartermaclab.github.io/kinesiol-1e03/lectures/week-01/lecture-03_measurement-error-scores/03_measurement-error-scores.html
